@@ -1,0 +1,62 @@
+.judul1 {
+	background-color: yellow;
+	font-size:40px;
+	width:1800px;
+	height:250px;
+ color: purple;
+	font-family: fantasy;
+	font-style: italic;
+
+}
+.para1 {
+	background-color: skyblue;
+	font-size:25px;
+	width:1800px;
+	height:40px;
+ color: red;
+	font-family: fantasy;
+}
+.anak1{
+	 background-color: greenyellow;
+	font-size: 40px;
+	float: left;
+	width: 600px;
+	height: 900px;
+	color: purple;
+	
+}
+.anak2{
+	background-color: aqua;
+	font-size: 40px;
+	float: left;
+	width: 600px;
+	height: 900px;
+	color: darkorchid;
+}
+.anak3{
+	background-color: palevioletred;
+	font-size: 40px;
+	float: left;
+	width: 600px;
+	height: 900px;
+	
+}
+.para2 {
+	background-color: yellow;
+	font-size:25px;
+	width:1800px;
+	height:30px;
+ color: black;
+	font-family: fantasy;
+	float: left;
+}
+
+.para3 {
+	background-color: darkorange;
+	font-size:25px;
+	width:1800px;
+	height:30px;
+ color: green;
+	font-family: fantasy;
+	float: left;
+}
